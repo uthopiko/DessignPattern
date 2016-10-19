@@ -1,0 +1,15 @@
+{
+    "name": "asier/observer",
+    "authors": [
+        {
+            "name": "Asier Ramos",
+            "email": "uthopiko@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "observer\\": "src/"
+        }
+    }
+}
